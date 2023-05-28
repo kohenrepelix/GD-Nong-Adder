@@ -34,7 +34,6 @@ int main()
         cout << "Found existing song with ID " << songID << " and restored the original file." << endl;
     }
     else {
-        // Rename the original file by adding "OG" at the end of the name
         if (!MoveFileA(originalFilePath.c_str(), renamedFilePath.c_str())) {
             cout << "Error renaming original file: " << GetLastError() << endl;
             return 1;
