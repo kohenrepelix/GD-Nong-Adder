@@ -1,0 +1,12 @@
+﻿  GD Nong Replacer.cpp
+C:\Users\kohen\source\repos\GD Nong Replacer\GD Nong Replacer\GD Nong Replacer.cpp(138,25): warning C4566: character represented by universal-character-name '\u306C' cannot be represented in the current code page (1252)
+C:\Users\kohen\source\repos\GD Nong Replacer\GD Nong Replacer\GD Nong Replacer.cpp(138,25): warning C4566: character represented by universal-character-name '\u3086' cannot be represented in the current code page (1252)
+C:\Users\kohen\source\repos\GD Nong Replacer\GD Nong Replacer\GD Nong Replacer.cpp(138,25): warning C4566: character represented by universal-character-name '\u308A' cannot be represented in the current code page (1252)
+C:\Users\kohen\source\repos\GD Nong Replacer\GD Nong Replacer\GD Nong Replacer.cpp(258,25): warning C4566: character represented by universal-character-name '\u30E6' cannot be represented in the current code page (1252)
+C:\Users\kohen\source\repos\GD Nong Replacer\GD Nong Replacer\GD Nong Replacer.cpp(258,25): warning C4566: character represented by universal-character-name '\u30D3' cannot be represented in the current code page (1252)
+C:\Users\kohen\source\repos\GD Nong Replacer\GD Nong Replacer\GD Nong Replacer.cpp(258,25): warning C4566: character represented by universal-character-name '\u30F3' cannot be represented in the current code page (1252)
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GD Nong Replacer.vcxproj -> C:\Users\kohen\source\repos\GD Nong Replacer\x64\Release\GD Nong Replacer.exe
